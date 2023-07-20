@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <title>Laravel</title>
+    <title>Laravel primi passi</title>
 
     <!-- Fonts -->
 
@@ -16,13 +16,7 @@
 </head>
 
 <body>
-    <div class="container">
-        <div class="row">
-            <div class="col">
-                CIao
-            </div>
-        </div>
-    </div>
+    Hello World
 </body>
 
 </html>
