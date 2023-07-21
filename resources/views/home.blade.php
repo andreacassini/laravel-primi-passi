@@ -16,7 +16,11 @@
 </head>
 
 <body>
-    Hello World
+    <h1>Hello World</h1>
+    <h3>{{$message}}</h3>
+    <h5>{{$name.' '.$surname}}</h5>
+    
+    
 </body>
 
 </html>
